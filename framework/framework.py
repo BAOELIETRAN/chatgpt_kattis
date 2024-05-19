@@ -2,7 +2,7 @@ from openai import OpenAI
 import os
 import subprocess
 # set api
-client = OpenAI(api_key = "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")
+client = OpenAI(api_key = "OPENAPI_CHATGPT_KEY")
 
 # function to make a call to the api
 def api_call(input):
