@@ -12,3 +12,7 @@ The notebook will also submit the generated solution to the Kattis website and s
 - The framework will create 2 folders in each problem's folder in the auto_mining folder:
   - Submission: Store all the solution file got from ChatGPT under python format in each problem's folder.
   - Result: Store all the result received from Kattis under text format in each problem's folder.
+
+## Step 3: Analysis and Prediction
+- For descriptive statistics, run 2v_Descriptive_Analysis.ipynb notebook
+- For feature analysis and prediction model, run FullGPT_Analysis.ipynb notebook
